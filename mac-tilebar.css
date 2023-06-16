@@ -12,7 +12,7 @@
 }
 .typeWindows-2-g3UY {
   flex-direction: var(--button-position);
-  margin-right: 3px !important;
+  margin-left: 3px !important;
 }
 .withFrame-2dL45i .winButton-3UMjdg > svg {
   display: none;
@@ -22,7 +22,7 @@
 }
 .withFrame-2dL45i .winButton-3UMjdg {
   pointer-events: none;
-  margin-right: -4px;
+  margin-left: -4px;
   top: 0;
 }
 .withFrame-2dL45i .winButton-3UMjdg::after {
